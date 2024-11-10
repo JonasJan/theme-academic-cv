@@ -86,13 +86,13 @@ sections:
       title: 'Service'
       subtitle: ''
       text: |-
-        ### Reviewing
+        ## Reviewing
         - Crypto 2023
         - Eurocrypt 2024
         - TCC 2023
         - PKC 2025
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: news
   #   content:
