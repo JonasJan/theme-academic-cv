@@ -82,7 +82,7 @@ sections:
         - Eurocrypt 2024
         - TCC 2023
         - PKC 2025
-        |
+        
         ####
     design:
       columns: '2'
