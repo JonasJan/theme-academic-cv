@@ -19,9 +19,9 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: system
       background:
-        color: turquoise
+        color: emerald
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -70,6 +70,15 @@ sections:
       filters:
         folders:
           - talks
+    design:
+      view: citation
+  - block: collection
+    id: service
+    content:
+      title: Service
+      filters:
+        folders:
+          - service
     design:
       view: citation
   # - block: collection
