@@ -135,11 +135,6 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: "bg-primary-700"
   #       css_style: ""
----
-title: My page
-type: landing
-
-sections:
   - block: contact
     id: contact
     content:
