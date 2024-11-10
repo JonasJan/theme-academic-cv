@@ -93,7 +93,7 @@ sections:
       subtitle: ''
       text: |-
       📧: jonas.janneck@rub.de
-      Building MC, Room 0/20, Universitätsstr. 150, 44801, Bochum
+      Building MC, Room 0/20, Universit{ä}tsstr. 150, 44801, Bochum
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
