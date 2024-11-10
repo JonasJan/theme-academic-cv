@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: '#185a5c'
+  color: 'mycolor'
 
 # SEO
 marketing:
