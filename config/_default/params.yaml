@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: teal
+  color: '#185a5c'
 
 # SEO
 marketing:
