@@ -21,7 +21,7 @@ sections:
     design:
       css_class: system
       background:
-        color: emerald
+        color: teal
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
