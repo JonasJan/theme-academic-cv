@@ -72,25 +72,22 @@ sections:
           - talks
     design:
       view: citation
-  - block: collection
-    id: service
-    content:
-      title: Service
-      filters:
-        folders:
-          - service
-    design:
-      view: citation
   - block: markdown
     content:
       title: 'Service'
       subtitle: ''
       text: |-
-        ## Reviewing
+        #### Reviewing
         - Crypto 2023
         - Eurocrypt 2024
         - TCC 2023
         - PKC 2025
+
+        ####
+        - 
+        - 
+        - 
+        - 
     design:
       columns: '2'
   # - block: collection
