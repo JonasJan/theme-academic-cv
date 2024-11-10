@@ -63,6 +63,6 @@ education:
 ## About Me
 
 I am a PhD student at Ruhr University Bochum under the supervision of [Eike Kiltz](https://informatik.rub.de/kiltz/) and [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). My research focuses on provable security, in particular I worked on the design and analysis of signature schemes and authenticated key encapsulation mechanisms.
-lattices
-Stefano
+<!-- lattices
+Stefano -->
 
