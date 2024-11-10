@@ -23,14 +23,6 @@ sections:
       background:
         color: '#185a5c'
         text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -97,6 +89,9 @@ sections:
       text: |-
         📧 jonas.janneck@rub.de <br>🏢 Building MC, Room 0/20, Universitatsstr. 150, 44801 Bochum
     design:
+      background:
+        color: '#185a5c'
+        text_color_light: true
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 ---
