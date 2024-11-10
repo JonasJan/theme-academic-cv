@@ -54,6 +54,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
@@ -73,6 +74,7 @@ sections:
     design:
       view: citation
   - block: markdown
+    id: service
     content:
       title: 'Service'
       subtitle: ''
@@ -92,7 +94,7 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-      📧{:} jonas.janneck@rub.de <br> Building MC, Room 0/20, Universitatsstr. 150, 44801 Bochum
+      jonas.janneck@rub.de <br> Building MC, Room 0/20, Universitatsstr. 150, 44801 Bochum
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
