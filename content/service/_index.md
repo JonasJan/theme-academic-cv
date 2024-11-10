@@ -3,7 +3,7 @@ title: Publications
 cms_exclude: true
 
 # View.
-view: citation
+view: card
 
 # Optional header image (relative to `static/media/` folder).
 banner:
@@ -14,4 +14,5 @@ banner:
 ### Reviewing
 - Crypto 2023
 - Eurocrypt 2024
+- TCC 2023
 - PKC 2025
