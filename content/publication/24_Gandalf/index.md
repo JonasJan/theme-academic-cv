@@ -1,5 +1,5 @@
 ---
-title: 'Ring Signatures for Deniable AKEM: Gandalf`s Fellowship'
+title: 'Ring Signatures for Deniable AKEM: Gandalf´s Fellowship'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
