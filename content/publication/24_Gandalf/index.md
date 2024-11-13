@@ -23,7 +23,7 @@ publishDate: '2024-08-15T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In CRYPTO 2024
@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: EPRINT
-  url: https://eprint.iacr.org/2024/890
+# - name: EPRINT
+#   url: https://eprint.iacr.org/2024/890
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-68376-3_10'
 url_code: ''
