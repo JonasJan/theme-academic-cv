@@ -87,7 +87,7 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        📧 jonas.janneck@rub.de <br>🏢 Building MC, Room 0/20, Universitatsstr. 150, 44801 Bochum
+        📧 jonas.janneck@rub.de <br>🏢 Building MC, Room 0/20, Universit&auml;tsstr. 150, 44801 Bochum
     design:
       background:
         color: '#185a5c'
