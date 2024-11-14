@@ -6,7 +6,7 @@ event_url: ''
 
 location: San Diego, CA, USA
 
-abstract: ''
+abstract: 'Falcon is a winner of NIST’s six-year post-quantum cryptography standardisation competition. Based on the celebrated full-domain-hash framework of Gentry, Peikert and Vaikuntanathan (GPV) (STOC’08), Falcon leverages NTRU lattices to achieve the most compact signatures among lattice-based schemes. Its security hinges on a Renyi divergence-based argument for Gaussian samplers, a core element of the scheme. However, the GPV proof, which uses statistical distance to argue closeness of distributions, fails when applied naively to Falcon. Additional implementation-driven deviations from the GPV framework further invalidate the original proof, leaving Falcon without a security proof despite its selection for standardisation. In this talk, I want to give an overview of our results which demonstrate that introducing a few minor, conservative modifications allows for the first formal proof of the scheme in the random oracle model. At the heart of our analysis lies an adaptation of the GPV framework to work with the Renyi divergence, along with an optimised method for parameter selection under this measure. Furthermore, we obtain a provable version of the GPV framework over NTRU rings. Unfortunately, our analysis shows that despite our modification of Falcon-512 and Falcon-1024 we do not achieve strong unforgeability for either scheme. For plain unforgeability we are able to show that our modifications to Falcon-512 barely satisfy the claimed 120-bit security target and for Falcon-1024 we confirm the claimed security level.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -17,8 +17,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-11-08T00:00:00Z'
 
-authors:
-  - admin
+# authors:
+#   - admin
+
+publication: UC San Diego
 
 tags: []
 
