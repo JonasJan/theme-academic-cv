@@ -26,7 +26,7 @@ publishDate: '2023-05-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In PETS 2023
+publication: In PoPETS 2023
 publication_short: []
 
 abstract: In this paper, we propose a new protocol for secure integer comparison which consists of parties having each a private integer. The goal of the computation is to compare both integers securely and reveal to the parties a single bit that tells which integer is larger. Nothing more should be revealed. To achieve a low communication overhead, this can be done by using homomorphic encryption (HE). Our protocol relies on binary decision trees that is a special case of branching programs and can be implemented using HE. We assume a client-server setting where each party holds one of the integers, the client also holds the private key of a homomorphic encryption scheme and the evaluation is done by the server. In this setting, our protocol outperforms the original DGK protocol of Damgård et al. and reduces the running time by at least 45%. In the case where both inputs are encrypted, our scheme reduces the running time of a variant of DGK by 63%.
