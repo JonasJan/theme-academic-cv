@@ -10,17 +10,17 @@ abstract: 'Falcon is a winner of NIST’s six-year post-quantum cryptography sta
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-08T00:00:00Z'
+date: '2024-05-08T00:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-11-08T00:00:00Z'
+publishDate: '2024-05-08T00:00:00Z'
 
 authors:
-  - UC San Diego
+  - Microsoft Research
 
-publication: San Diego, CA, USA
+publication: Redmond, WA, USA
 
 tags: []
 
