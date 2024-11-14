@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:jonas.janneck@rub.de'
+    url: /#contact
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -43,6 +43,7 @@ profiles:
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=v-2AAmcAAAAJ&hl=de
+    label: Google Scholar
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
