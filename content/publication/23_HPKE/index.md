@@ -1,11 +1,11 @@
 ---
-title: "Ring Signatures for Deniable AKEM: Gandalf's Fellowship"
+title: "The Pre-Shared Key Modes of HPKE"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jo&euml;l Alwen
+  - Joël Alwen
   - admin
   - Eike Kiltz
   - Benjamin Lipp
