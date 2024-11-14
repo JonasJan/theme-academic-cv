@@ -57,6 +57,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      count: 0
   - block: collection
     id: talks
     content:
