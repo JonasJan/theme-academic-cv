@@ -55,9 +55,9 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      count: 0
     design:
       view: citation
-      count: 0
   - block: collection
     id: talks
     content:
