@@ -1,7 +1,7 @@
 ---
 title: A Closer Look at Falcon
 
-event: UC San Diego
+event: ''
 event_url: ''
 
 location: San Diego, CA, USA
@@ -17,10 +17,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-11-08T00:00:00Z'
 
-# authors:
-#   - admin
+authors:
+  - UC San Diego
 
-publication: UC San Diego
+publication: San Diego, CA, USA
 
 tags: []
 
