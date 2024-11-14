@@ -25,3 +25,6 @@ main:
   - name: Service
     url: /#service
     weight: 40
+  - name: Contact
+    url: /#contact
+    weight: 50
