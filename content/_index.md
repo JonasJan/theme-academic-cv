@@ -65,6 +65,7 @@ sections:
       filters:
         folders:
           - talks
+      count: 0
     design:
       view: citation
   - block: markdown
