@@ -29,7 +29,7 @@ publishDate: '2020-05-02T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In CSF 2020
+publication: CSF 2020
 publication_short: []
 
 abstract: This work considers the trade-off between security and performance when revealing partial information about encrypted data computed on. The focus of our work is on information revealed through control flow side-channels when executing programs on encrypted data. We use quantitative information flow to measure security, running time to measure performance and program transformation techniques to alter the trade-off between the two. Combined with information flow policies, we perform a policy-aware security and performance trade-off (PASAPTO) analysis. We formalize the problem of PASAPTO analysis as an optimization problem, prove the NP-hardness of the corresponding decision problem and present two algorithms solving it heuristically. We implemented our algorithms and combined them with the Dataflow Authentication (DFAuth) approach for outsourcing sensitive computations. Our DFAuth Trade-off Analyzer (DFATA) takes Java Bytecode operating on plaintext data and an associated information flow policy as input. It outputs semantically equivalent program variants operating on encrypted data which are policy-compliant and approximately Pareto-optimal with respect to leakage and performance. We evaluated DFATA in a commercial cloud environment using Java programs, e.g., a decision tree program performing machine learning on medical data. The decision tree variant with the worst performance is 357% slower than the fastest variant. Leakage varies between 0% and 17% of the input.
