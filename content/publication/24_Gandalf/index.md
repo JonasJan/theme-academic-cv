@@ -52,7 +52,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'https://iacr.org/submit/files/slides/2024/crypto/crypto2024/471/slides.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/bDN4-Fxm8ho?list=PLeeS-3Ml-rprqjxP_UcoPRdnj1BmELWfp&t=1291'
 doi: '10.1007/978-3-031-68376-3_10'
 
 # Featured image
