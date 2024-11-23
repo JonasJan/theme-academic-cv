@@ -45,6 +45,7 @@ links:
   url: https://eprint.iacr.org/2024/890
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-68376-3_10'
+doi: 'https://link.springer.com/chapter/10.1007/978-3-031-68376-3_10'
 url_code: ''
 url_dataset: ''
 url_poster: ''
