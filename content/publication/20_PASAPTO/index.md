@@ -47,7 +47,7 @@ featured: true
 # - name: EPRINT
 #   url: https://eprint.iacr.org/2023/1480
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9155204'
+url_pdf: 'pasapto.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,6 +55,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+doi: '10.1109/CSF49147.2020.00024'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
