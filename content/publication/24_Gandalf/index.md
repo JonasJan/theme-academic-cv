@@ -40,13 +40,12 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: EPRINT
-  icon: academicons/google-scholar
-  url: https://eprint.iacr.org/2024/890
+# links:
+# - name: EPRINT
+#   icon: academicons/google-scholar
+#   url: https://eprint.iacr.org/2024/890
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-68376-3_10'
-doi: 'https://link.springer.com/chapter/10.1007/978-3-031-68376-3_10'
+url_pdf: 'https://eprint.iacr.org/2024/890.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,6 +53,7 @@ url_project: ''
 url_slides: 'https://iacr.org/submit/files/slides/2024/crypto/crypto2024/471/slides.pdf'
 url_source: ''
 url_video: ''
+doi: '10.1007/978-3-031-68376-3_10'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
