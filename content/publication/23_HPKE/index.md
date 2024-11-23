@@ -51,9 +51,9 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/176/slides.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/SXSboQhZL74?list=PLeeS-3Ml-rpqGF3xXCf5xOiE2QqEVFGoV&t=3087'
 doi: '10.1007/978-981-99-8736-8_11'
 
 # Featured image
