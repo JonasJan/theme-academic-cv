@@ -41,11 +41,12 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: EPRINT
-  url: https://eprint.iacr.org/2023/1480
+# links:
+# - name: EPRINT
+#   url: https://eprint.iacr.org/2023/1480
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-99-8736-8_11'
+
+url_pdf: 'https://eprint.iacr.org/2023/1480.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,6 +54,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+doi: '10.1007/978-981-99-8736-8_11'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
