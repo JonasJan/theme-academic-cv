@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: envelope
     url: /#contact
-    label: E-mail Me
+    label: See Contact
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
