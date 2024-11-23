@@ -47,7 +47,7 @@ featured: true
 # - name: EPRINT
 #   url: https://eprint.iacr.org/2023/1480
 
-url_pdf: 'pasapto.pdf'
+url_pdf: 'uploads/pasapto.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
