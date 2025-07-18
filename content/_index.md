@@ -90,7 +90,7 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        📧 firstname.lastname@rub.de <br>🏢 Building MC, Room 0/20, Universit&auml;tsstr. 150, 44801 Bochum
+        📧 firstname.lastname@rub.de <br>🏢 Building MC, Room 0/20, Universit&auml;tsstr. 140, 44801 Bochum
     design:
       background:
         color: '#185a5c'

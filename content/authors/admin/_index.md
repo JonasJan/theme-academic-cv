@@ -65,5 +65,5 @@ education:
 
 I am a third-year PhD student at Ruhr University Bochum under the supervision of [Eike Kiltz](https://informatik.rub.de/kiltz/) and [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). My research focuses on provable security with a special interest in lattice-based constructions. In particular, I worked on the design and analysis of signature schemes and authenticated key encapsulation mechanisms.
 
-In the fall of 2024, I visited University of Washington to work with [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/).
+In the fall of 2024, I visited the University of Washington to work with [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/).
 
