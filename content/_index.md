@@ -58,16 +58,40 @@ sections:
       count: 0
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent Talks
-      filters:
-        folders:
-          - talks
-      count: 0
-    design:
-      view: citation
+  # - block: collection
+  #   id: talks-old
+  #   content:
+  #     title: Recent Talks
+  #     filters:
+  #       folders:
+  #         - talks
+  #     count: 0
+  #   design:
+  #     view: citation
+  #   - block: markdown
+  id: talks
+  content:
+    title: 'Recent Talks'
+    subtitle: ''
+    text: |-
+      #### A Closer Look at Falcon
+      - Aarhus Crypto Group (2025), Aarhus, Denmark
+      - TU Darmstadt (2025), Darmstadt, Germany
+      - University of Mannheim (2025), Mannheim, Germany
+      - UC San Diego (2024), San Diego, CA, USA
+      - Microsoft Research (2024), Redmond, WA, USA
+      ####
+      #### The Pre-Shared Key Modes of HPKE
+      - Asiacrypt (2023), Guangzhou, China
+      ####
+      #### Private Set Intersection based on Fully Homomorphic Encryption
+      - Cybersecurity Conference (2022), Mannheim, Germany
+      ####
+      #### Secure Branching Program Evaluation
+      - GI Crypto Day (2021), Virtual
+      ####
+  design:
+    columns: '2'
   - block: markdown
     id: service
     content:
@@ -80,6 +104,7 @@ sections:
         - TCC 2023
         - PKC 2025
         - ACNS 2025
+        - S&P 2026
         
         ####
     design:
