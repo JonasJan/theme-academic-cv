@@ -68,7 +68,7 @@ sections:
   #     count: 0
   #   design:
   #     view: citation
-  #   - block: markdown
+  - block: markdown
   id: talks
   content:
     title: 'Recent Talks'
