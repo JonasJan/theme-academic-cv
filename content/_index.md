@@ -74,12 +74,12 @@ sections:
       title: 'Recent Talks'
       subtitle: ''
       text: |-
-        - A Closer Look at Falcon
-          - Aarhus Crypto Group (2025), Aarhus, Denmark
-          - TU Darmstadt (2025), Darmstadt, Germany
-          - University of Mannheim (2025), Mannheim, Germany
-          - UC San Diego (2024), San Diego, CA, USA
-          - Microsoft Research (2024), Redmond, WA, USA
+        #### A Closer Look at Falcon
+        - <sub>Aarhus Crypto Group (2025), Aarhus, Denmark</sub>
+        - TU Darmstadt (2025), Darmstadt, Germany
+        - University of Mannheim (2025), Mannheim, Germany
+        - UC San Diego (2024), San Diego, CA, USA
+        - Microsoft Research (2024), Redmond, WA, USA
         ####
         #### The Pre-Shared Key Modes of HPKE
         - Asiacrypt (2023), Guangzhou, China
