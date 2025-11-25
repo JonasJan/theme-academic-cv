@@ -75,11 +75,11 @@ sections:
       subtitle: ''
       text: |-
         #### A Closer Look at Falcon
-        - Aarhus Crypto Group (2025), Aarhus, Denmark
-        - TU Darmstadt (2025), Darmstadt, Germany
-        - University of Mannheim (2025), Mannheim, Germany
-        - UC San Diego (2024), San Diego, CA, USA
-        - Microsoft Research (2024), Redmond, WA, USA
+          - Aarhus Crypto Group (2025), Aarhus, Denmark
+          - TU Darmstadt (2025), Darmstadt, Germany
+          - University of Mannheim (2025), Mannheim, Germany
+          - UC San Diego (2024), San Diego, CA, USA
+          - Microsoft Research (2024), Redmond, WA, USA
         ####
         #### The Pre-Shared Key Modes of HPKE
         - Asiacrypt (2023), Guangzhou, China
@@ -99,12 +99,12 @@ sections:
       subtitle: ''
       text: |-
         #### Reviewing
-        - Crypto 2023
-        - Eurocrypt 2024
-        - TCC 2023
-        - PKC 2025
         - ACNS 2025
+        - Crypto 2023
+        - Eurocrypt 2024, 2025, 2026
+        - PKC 2025
         - S&P 2026
+        - TCC 2023
         
         ####
     design:
