@@ -75,10 +75,10 @@ sections:
       subtitle: ''
       text: |-
         #### A Closer Look at Falcon
-        &emsp;<sub>Aarhus Crypto Group (2025), Aarhus, Denmark</sub>
-        &emsp;<sub>TU Darmstadt (2025), Darmstadt, Germany</sub>
-        &emsp;<sub>University of Mannheim (2025), Mannheim, Germany</sub>
-        &emsp;<sub>UC San Diego (2024), San Diego, CA, USA</sub>
+        &emsp;<sub>Aarhus Crypto Group (2025), Aarhus, Denmark</sub><br>
+        &emsp;<sub>TU Darmstadt (2025), Darmstadt, Germany</sub><br>
+        &emsp;<sub>University of Mannheim (2025), Mannheim, Germany</sub><br>
+        &emsp;<sub>UC San Diego (2024), San Diego, CA, USA</sub><br>
         &emsp;<sub>Microsoft Research (2024), Redmond, WA, USA</sub>
         ####
         #### The Pre-Shared Key Modes of HPKE
