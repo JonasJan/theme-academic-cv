@@ -76,19 +76,19 @@ sections:
       text: |-
         #### A Closer Look at Falcon
         &emsp;<sub>Aarhus Crypto Group (2025), Aarhus, Denmark</sub>
-        - TU Darmstadt (2025), Darmstadt, Germany
-        - University of Mannheim (2025), Mannheim, Germany
-        - UC San Diego (2024), San Diego, CA, USA
-        - Microsoft Research (2024), Redmond, WA, USA
+        &emsp;<sub>TU Darmstadt (2025), Darmstadt, Germany</sub>
+        &emsp;<sub>University of Mannheim (2025), Mannheim, Germany</sub>
+        &emsp;<sub>UC San Diego (2024), San Diego, CA, USA</sub>
+        &emsp;<sub>Microsoft Research (2024), Redmond, WA, USA</sub>
         ####
         #### The Pre-Shared Key Modes of HPKE
-        - Asiacrypt (2023), Guangzhou, China
+        &emsp;<sub>Asiacrypt (2023), Guangzhou, China</sub>
         ####
         #### Private Set Intersection based on Fully Homomorphic Encryption
-        - Cybersecurity Conference (2022), Mannheim, Germany
+        &emsp;<sub>Cybersecurity Conference (2022), Mannheim, Germany</sub>
         ####
         #### Secure Branching Program Evaluation
-        - GI Crypto Day (2021), Virtual
+        &emsp;<sub>GI Crypto Day (2021), Virtual</sub>
         ####
     design:
       columns: '2'
