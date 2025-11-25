@@ -74,7 +74,7 @@ sections:
       title: 'Recent Talks'
       subtitle: ''
       text: |-
-        #### A Closer Look at Falcon
+        - A Closer Look at Falcon
           - Aarhus Crypto Group (2025), Aarhus, Denmark
           - TU Darmstadt (2025), Darmstadt, Germany
           - University of Mannheim (2025), Mannheim, Germany
