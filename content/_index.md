@@ -75,7 +75,7 @@ sections:
       subtitle: ''
       text: |-
         #### A Closer Look at Falcon
-          <sub>Aarhus Crypto Group (2025), Aarhus, Denmark</sub>
+        &emsp;<sub>Aarhus Crypto Group (2025), Aarhus, Denmark</sub>
         - TU Darmstadt (2025), Darmstadt, Germany
         - University of Mannheim (2025), Mannheim, Germany
         - UC San Diego (2024), San Diego, CA, USA
