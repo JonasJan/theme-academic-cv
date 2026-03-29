@@ -10,5 +10,17 @@ summary: ""
 draft: false
 ---
 
-**3 pm - 4 pm:** Arriving and cake
+**3:00 pm - 4:00 :** Arriving
+
+**4:00 pm - 5:00 pm:** Cake and games
+
+**5:00 pm - 6:30 pm:** Guest featured program
+
+**7:00 pm - 8:30 pm:** Dinner
+
+**8:30 pm - 10:00 pm:** Guest featured program
+
+**10:00 pm:** End of main party
+
+**10:00 pm - 11:00 pm:** Leaving and good-night-games
 
