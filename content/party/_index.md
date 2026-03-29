@@ -1,12 +1,13 @@
 ---
 title: Party Schedule Saturday
-cms_exclude: true
+date: 2024-01-01
+type: page
 
-# View.
-view: citation
+# Optional
+summary: ""
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# Draft mode (won't publish until set to false)
+draft: false
 ---
+
+Your Markdown content goes here.
