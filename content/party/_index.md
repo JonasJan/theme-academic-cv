@@ -3,6 +3,11 @@ title: Party Schedule Saturday
 date: 2024-01-01
 type: page
 
+design:
+  background:
+    color: '#185a5c'
+    text_color_light: true
+
 # Optional
 summary: ""
 
