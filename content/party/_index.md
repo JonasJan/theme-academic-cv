@@ -10,6 +10,9 @@ design:
 
 # Optional
 summary: ""
+image:
+  filename: orang-utan.jpg
+  caption: Orang-Utan (obviously)
 
 # Draft mode (won't publish until set to false)
 draft: false
