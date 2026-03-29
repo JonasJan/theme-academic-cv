@@ -10,17 +10,10 @@ summary: ""
 draft: false
 ---
 
-**3:00 pm - 4:00 :** Arriving
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
 
-**4:00 pm - 5:00 pm:** Cake and games
-
-**5:00 pm - 6:30 pm:** Guest featured program
-
-**7:00 pm - 8:30 pm:** Dinner
-
-**8:30 pm - 10:00 pm:** Guest featured program
-
-**10:00 pm:** End of main party
-
-**10:00 pm - 11:00 pm:** Leaving and good-night-games
+**3:00 pm - 4:00 :** <br><br> **4:00 pm - 5:00 pm:** <br><br>  **5:00 pm - 6:30 pm:** <br><br>  **7:00 pm - 8:30 pm:** <br><br>  **8:30 pm - 10:00 pm:** <br><br>  **10:00 pm:** <br><br>  **10:00 pm - 11:00 pm:**| Arriving <br><br>  Cake and games <br><br> Guest featured program <br><br> Dinner <br><br> Guest featured program <br><br> End of main party <br><br> Leaving and good-night-games <br><br> 
 
