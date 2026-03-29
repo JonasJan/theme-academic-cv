@@ -3,16 +3,13 @@ title: Party Schedule Saturday
 date: 2024-01-01
 type: page
 
-design:
-  background:
-    color: '#185a5c'
-    text_color_light: true
-
 # Optional
 summary: ""
 image:
   filename: orang-utan.jpg
   caption: Orang-Utan (obviously)
+color: '#185a5c'
+text_color_light: true
 
 # Draft mode (won't publish until set to false)
 draft: false
