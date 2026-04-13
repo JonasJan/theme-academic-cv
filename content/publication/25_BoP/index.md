@@ -12,11 +12,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-10-01T00:00:00Z'
+date: '2026-04-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-10-01T00:00:00Z'
+publishDate: '2026-04-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,7 +24,7 @@ publishDate: '2025-10-01T00:00:00Z'
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: Cryptology ePrint Archive
+publication: EUROCRYPT 2026
 publication_short: []
 
 abstract: Following the announcement of the first winners of the NIST post-quantum cryptography standardization process in 2022, cryptographic protocols are now undergoing migration to the newly standardized schemes. In most cases, this transition is realized through a hybrid approach, in which algorithms based on classical hardness assumptions, such as the discrete logarithm problem, are combined with post-quantum algorithms that rely on quantum-resistant assumptions, such as the Short Integer Solution (SIS) problem. A combiner for signature schemes can be obtained by simply concatenating the signatures of both schemes. This construction preserves unforgeability of the underlying schemes; however, it does not extend to stronger notions, such as strong unforgeability. Several applications, including authenticated key exchange and secure messaging, inherently require strong unforgeability, yet no existing combiner is known to achieve this property. This work introduces three practical combiners that preserve strong unforgeability and all BUFF (beyond unforgeability features) properties. Each combiner is tailored to a specific class of classical signature schemes capturing all broadly used schemes that are strongly unforgeable. Remarkably, all combiners can be instantiated with any post-quantum signature scheme in a black-box way making deployment practical and significantly less error prone. The proposed solutions are further highly efficient and have signatures that are at most the size of the (insecure) concatenation combiner. For instance, our most efficient combiner enables the combination of EdDSA with ML-DSA, yielding a signature size that is smaller than the sum of an individual EdDSA signature and an individual ML-DSA signature. Additionally, we identify a novel signature property that we call random-message validity and show that it can be used to replace the BUFF transform with the more efficient Pornin-Stern transform. The notion may be of independent interest.

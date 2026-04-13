@@ -14,11 +14,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-02-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-01T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,7 +26,7 @@ publishDate: '2025-02-01T00:00:00Z'
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear at USENIX 2026
+publication: USENIX 2026
 publication_short: []
 
 abstract: "As cryptographic protocols transition to post-quantum security, most adopt hybrid solutions combining pre-quantum and post-quantum assumptions. However, this shift often introduces trade-offs in terms of efficiency, compactness, and in some cases, even security. One such example is deniability, which enables users, such as journalists or activists, to deny authorship of potentially incriminating messages. While deniability was once mainly of theoretical interest, protocols like X3DH, used in Signal and WhatsApp, provide it to billions of users. In the post-quantum setting, however, protocols like PQXDH, as well as others such as Apple’s iMessage with PQ3, do not support deniability. This work investigates how to efficiently preserve deniability in the post-quantum setting.
