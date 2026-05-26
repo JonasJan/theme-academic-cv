@@ -74,7 +74,15 @@ sections:
       title: 'Recent Talks'
       subtitle: ''
       text: |-
+        ####
+        #### Bird of Prey
+        &emsp;<sub>Eurocrypt (2026), Rome, Italy</sub><br>
+        ####
+        #### Secure Cloud Storage
+        &emsp;<sub>Eurocrypt (2026), Rome, Italy</sub><br>
         #### A Closer Look at Falcon
+        &emsp;<sub>Eurocrypt (2026), Rome, Italy</sub><br>
+        &emsp;<sub>Lattice Smeinar Royal Holloway (2026), Egham, UK</sub><br>
         &emsp;<sub>Aarhus Crypto Group (2025), Aarhus, Denmark</sub><br>
         &emsp;<sub>TU Darmstadt (2025), Darmstadt, Germany</sub><br>
         &emsp;<sub>University of Mannheim (2025), Mannheim, Germany</sub><br>
