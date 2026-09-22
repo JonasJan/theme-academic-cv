@@ -123,7 +123,7 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        📧 firstname.lastname@rub.de <br>🏢 Building MC, Room 0/20, Universit&auml;tsstr. 140, 44801 Bochum
+        Signal: Jonas.5026 <br>📧 FirstLetterOfFirstNameFollowedByLastname@uwaterloo.ca <br>🏢 Building MC, Room 6002, 200 University Ave W, Waterloo
     design:
       background:
         color: '#185a5c'
