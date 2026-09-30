@@ -123,7 +123,7 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        Signal: Jonas.5026 <br>📧 jjanneck@uwaterloo.ca <br>🏢 Building MC, Room 6002 <br>200 University Ave W, Waterloo
+        Signal: Jonas.5026 <br>📧 jjanneck@uwaterloo.ca <br>🏢 Building MC, Room 6002, 200 University Ave W, Waterloo
     design:
       background:
         color: '#185a5c'
