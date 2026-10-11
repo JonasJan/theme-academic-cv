@@ -47,9 +47,10 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://iacr.org/submit/files/slides/2026/eurocrypt/eurocrypt2026/63/63_slides.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=FbdbkOKby8c'
+doi: '10.1007/978-3-032-25317-0_8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
